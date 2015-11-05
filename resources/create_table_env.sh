@@ -1,0 +1,1 @@
+env COMPRESSION=NONE HBASE_HOME=/opt/hbase /home/kenshinn/apps/work/kenshinn/opentsdb/opentsdb/resources/create_table.sh
